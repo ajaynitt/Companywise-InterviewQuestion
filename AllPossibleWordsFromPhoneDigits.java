@@ -65,3 +65,9 @@ public class AllPossibleWordsFromPhoneDigits {
     }
 }
 
+/*
+Given a keypad as shown in diagram, and a n digit number, list all words which are possible by pressing these numbers.
+For example if input number is 234, possible words which can be formed are (Alphabetical order):
+adg adh adi aeg aeh aei afg afh afi bdg bdh bdi beg beh bei bfg bfh bfi cdg cdh cdi ceg ceh cei cfg cfh cfi
+*/
+
